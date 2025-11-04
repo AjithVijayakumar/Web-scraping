@@ -47,13 +47,15 @@ The data will be saved as:
     imdb_top250.csv
 
 5. **💾 Example Output**
+   
    | Rank | Title                    | Year | Rating |
    | 1    | The Shawshank Redemption | 1994 | 9.2    |
    | 2    | The Godfather            | 1972 | 9.2    |
    | 3    | The Dark Knight          | 2008 | 9.0    |
 
 
-7. **🪄 Use Cases**
+
+8. **🪄 Use Cases**
 
     Movie rating and trend analysis
 
@@ -63,7 +65,7 @@ The data will be saved as:
 
     Data visualization and dashboards
 
-8. **🧩 Future Enhancements**
+9. **🧩 Future Enhancements**
 
     Scrape genres, directors, and cast information.
 
@@ -71,10 +73,11 @@ The data will be saved as:
 
     Create an interactive dashboard using Streamlit or Flask.
 
-9. **🏁 Conclusion**
+10. **🏁 Conclusion**
 
     The IMDb Movie Rating Scraper automates the process of collecting movie data from IMDb.
     It provides a robust and efficient foundation for analytics, visualization, and recommendation-based applications.
+
 
 
 
